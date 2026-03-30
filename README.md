@@ -8,7 +8,7 @@
 ## 👤 Autore
 * **Elio Fava** (MAT: 0001/25512 / DE9000008)
 
-**Università degli Studi di Napoli Federico II** **Corso:** Architettura e Progetto dei Calcolatori (APC)  
+**Università degli Studi di Napoli Federico II** **Corso:** Architettura e Progetto dei Calcolatori (APC) A.A 2024/25
 **Docente:** Prof. Nicola Mazzocca
 
 ---
