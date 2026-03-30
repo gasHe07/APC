@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Version%201.0-brightgreen)
 ![University](https://img.shields.io/badge/University-Federico%20II-red)
-![Hardware](https://img.shields.io/badge/Hardware-STM32%20%-blue)
+![Hardware](https://img.shields.io/badge/Hardware-STM32%20F3-blue)
 ![Hardware](https://img.shields.io/badge/Hardware-ESP32%20Wrover-blue)
 
 ## 👤 Autore
